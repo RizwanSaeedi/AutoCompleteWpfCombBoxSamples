@@ -29,11 +29,11 @@ namespace SimpleAutoCompleteCombBoxSample
 
 
             ObservableCollection<SearchModel> dataList = new ObservableCollection<SearchModel>
-                {
-                    new SearchModel(){DisplayField = "Item 1",StringFeild1 = "Ali"},
-                    new SearchModel(){DisplayField = "Item 2",StringFeild1 = "Frahan"},
-                    new SearchModel(){DisplayField = "Item 3",StringFeild1 = "Raza"},
-                };
+            {
+                new SearchModel(){DisplayField = "Item 1",StringFeild1 = "Ali"},
+                new SearchModel(){DisplayField = "Item 2",StringFeild1 = "Frahan"},
+                new SearchModel(){DisplayField = "Item 3",StringFeild1 = "Raza"},
+            };
 
             autoCompleteComboBox.ItemsSource = dataList;
         }

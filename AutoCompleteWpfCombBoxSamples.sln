@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAutoCompleteCombBoxSample", "SimpleAutoCompleteCombBoxSample\SimpleAutoCompleteCombBoxSample.csproj", "{125F89A1-53EC-4DE3-9775-38F137031686}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDesignSample", "MaterialDesignSample\MaterialDesignSample.csproj", "{8914CA90-0269-47E0-A10B-00C5FFEB6FF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{125F89A1-53EC-4DE3-9775-38F137031686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{125F89A1-53EC-4DE3-9775-38F137031686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{125F89A1-53EC-4DE3-9775-38F137031686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8914CA90-0269-47E0-A10B-00C5FFEB6FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8914CA90-0269-47E0-A10B-00C5FFEB6FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8914CA90-0269-47E0-A10B-00C5FFEB6FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8914CA90-0269-47E0-A10B-00C5FFEB6FF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
