@@ -8,8 +8,8 @@
 		mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-		<saeedisoftwpfuicontrols:ComboBoxAutoComplete x:Name="autoCompleteComboBox"
+		<saeedisoftwpfuicontrols:ComboBoxAutoComplete FilterMode='Equals' HorizontalAlignment='Left' x:Name="autoCompleteComboBox"
 													  DisplayMemberPath='DisplayField'
-													  Margin='-135,-90,135,90' />
+													 />
 	</Grid>
 </Window>
